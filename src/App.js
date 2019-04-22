@@ -1,6 +1,6 @@
 import React from "react";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <div className="Nav">
@@ -76,6 +76,6 @@ function App() {
       </div>
     </div>
   );
-}
+};
 
 export default App;
